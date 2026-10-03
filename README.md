@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of vovayatsyuk/flarum-ext-auth-magento.** Not for installation: use [Packagist](https://packagist.org/packages/vovayatsyuk/flarum-ext-auth-magento) or the [upstream repository](https://github.com/vovayatsyuk/flarum-ext-auth-magento).
 
-**0** versions archived · Latest: [`v0.1.0-beta.2`](https://github.com/flarchive/vovayatsyuk-flarum-ext-auth-magento/tree/archive/v0.1.0-beta.2) · License: `MIT` · Flarum: `^0.1.0-beta.3`
+**2** versions archived · Latest: [`v0.1.0-beta.2`](https://github.com/flarchive/vovayatsyuk-flarum-ext-auth-magento/tree/archive/v0.1.0-beta.2) · License: `MIT` · Flarum: `^0.1.0-beta.3`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0-beta.1` | 2016-01-27 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/vovayatsyuk-flarum-ext-auth-magento/tree/archive/v0.1.0-beta.1) |
+| `v0.1.0-beta.2` | 2016-01-28 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/vovayatsyuk-flarum-ext-auth-magento/tree/archive/v0.1.0-beta.2) |
 
 Catalog entry: [packages/vovayatsyuk-flarum-ext-auth-magento.json](https://github.com/flarchive/archive-index/blob/main/packages/vovayatsyuk-flarum-ext-auth-magento.json)
 
